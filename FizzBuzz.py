@@ -5,9 +5,6 @@ for i in range(1,100+1):
         print("Buzz")
       elif i%3 == 0:
         print('Fizz')
-      else:    
+      elif i%1 ==0:    
         print(i)
-else:
-print("hi")
 
-    
