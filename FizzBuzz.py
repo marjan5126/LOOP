@@ -7,7 +7,5 @@ for i in range(1,100+1):
         print('Fizz')
       else:    
         print(i)
-else:
-print("hi")
 
     
